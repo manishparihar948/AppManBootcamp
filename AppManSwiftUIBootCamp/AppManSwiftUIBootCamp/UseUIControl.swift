@@ -11,7 +11,7 @@ struct UseUIControl: View {
     var body: some View {
         // All the controls appears on clicking on plus (+) button on right top corner
         Button("Button") {
-            /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
+            
         }
         
         Label("Label", systemImage: /*@START_MENU_TOKEN@*/"42.circle"/*@END_MENU_TOKEN@*/)
