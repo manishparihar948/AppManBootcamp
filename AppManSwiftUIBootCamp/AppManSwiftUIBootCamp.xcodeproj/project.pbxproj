@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD4837D22B1F1BAD0003A998 /* ViewDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4837D12B1F1BAD0003A998 /* ViewDependencies.swift */; };
 		CD7A7D7F2B1DEDC9003C1926 /* AppManSwiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7A7D7E2B1DEDC9003C1926 /* AppManSwiftUIBootCampApp.swift */; };
 		CD7A7D812B1DEDC9003C1926 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD7A7D802B1DEDC9003C1926 /* ContentView.swift */; };
 		CD7A7D832B1DEDCD003C1926 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD7A7D822B1DEDCD003C1926 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD4837D12B1F1BAD0003A998 /* ViewDependencies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDependencies.swift; sourceTree = "<group>"; };
 		CD7A7D7B2B1DEDC9003C1926 /* AppManSwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppManSwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD7A7D7E2B1DEDC9003C1926 /* AppManSwiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppManSwiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		CD7A7D802B1DEDC9003C1926 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				CD7A7D7E2B1DEDC9003C1926 /* AppManSwiftUIBootCampApp.swift */,
 				CD7A7D802B1DEDC9003C1926 /* ContentView.swift */,
+				CD4837D12B1F1BAD0003A998 /* ViewDependencies.swift */,
 				CD7A7D822B1DEDCD003C1926 /* Assets.xcassets */,
 				CD7A7D842B1DEDCD003C1926 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				CD7A7D812B1DEDC9003C1926 /* ContentView.swift in Sources */,
 				CD7A7D7F2B1DEDC9003C1926 /* AppManSwiftUIBootCampApp.swift in Sources */,
+				CD4837D22B1F1BAD0003A998 /* ViewDependencies.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
